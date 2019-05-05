@@ -1,5 +1,5 @@
 # p-comp
-Process Composer: Language to create process architectures
+__Process Composer:__ Language to create process architectures.
 
 ## Introduction
 At this stage, the objective of this 'README' file is just to introduce the design goals for this personal project (p-comp)
